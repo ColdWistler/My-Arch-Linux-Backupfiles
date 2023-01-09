@@ -2,7 +2,13 @@
 It's just my back up files for the theming as I keep breaking my install lol.
 If anyone wants to use it they're free to use it.
 
-#Installing paru:
+# Start by updating the system:
+```bash
+$ sudo pacman -Syyu
+```
+
+#Installing paru (AUR Helper):
+-----------------
 ```bash
 $ sudo pacman -S --needed base-devel
 ```
@@ -18,7 +24,10 @@ $ cd paru
 $ makepkg -si
 ```
 
+
+
 #Installing the required applications:
+--------------------------------------
 ```bash
 $ paru -S gnome openbox obmenu-generator obconf nitrogen vscodium-bin kitty polybar conky concky-manager2-git termite gnome-tweaks xfce4 lxappearence
 ```
