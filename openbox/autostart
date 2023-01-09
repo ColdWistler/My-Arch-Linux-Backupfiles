@@ -1,5 +1,0 @@
-## Launch Polybar with random wallpaper
-bash ~/.config/polybar/docky/scripts/pywal.sh /home/bakasoggy/Pictures/backgrounds/
-bash ~/.config/polybar/launch.sh --docky
-
-bash ~/.config/conky/Rasalas/start.sh
