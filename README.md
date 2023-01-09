@@ -33,7 +33,7 @@ $ makepkg -si
 #Installing the required applications:
 --------------------------------------
 ```bash
-$ paru -S gnome openbox obmenu-generator obconf nitrogen vscodium-bin kitty polybar conky concky-manager2-git termite gnome-tweaks xfce4 lxappearence pyton-pywal rofi betterlockscreen zorin-desktop-themes zorin-icon themes windows-xp-themes-git windows-xp-icons-git pfetch calc networkmanager_dmenu
+$ paru -S gnome openbox obmenu-generator obconf nitrogen vscodium-bin kitty polybar conky concky-manager2-git termite gnome-tweaks xfce4 lxappearence pyton-pywal rofi betterlockscreen zorin-desktop-themes zorin-icon themes windows-xp-themes-git windows-xp-icons-git pfetch calc networkmanager_dmenu kvantum
 ```
 Note: Since I used anarchy installer I already have KDE installed so install plasma if not installed.
 
