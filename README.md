@@ -39,7 +39,9 @@ Note: Since I used anarchy installer I already have KDE installed so install pla
 ```bash
 $ git clone https://github.com/ColdWistler/My-Arch-Linux-Backupfiles.git 
 ```
+#Finally copying the configurations:
 
+$ 
 
 # Openbox configuration:
 
