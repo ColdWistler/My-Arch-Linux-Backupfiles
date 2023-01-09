@@ -152,6 +152,8 @@ Change wallpaper and generate color schemes according to the bar: Windows key + 
 
 ![pic8](https://user-images.githubusercontent.com/53271289/211318683-51392c21-1a0b-4144-9b5c-aa817a41de30.png)
 
+Switch the themes to Xp and the wallpaper is in the pictures folder. And remove the bottom panel and move the top pannel to the bottom.
+
 #Gnome:
 -------
 ![gnome](https://user-images.githubusercontent.com/53271289/211318851-4a0acfaf-6394-41e4-9272-ac69e3ca124b.png)
@@ -162,6 +164,7 @@ Change wallpaper and generate color schemes according to the bar: Windows key + 
 Some of the works aren't done by me and are a part of other projects.
 Thank you and please let me know if there is any issue with me using these works.
 I'm Sorry if I cause any trouble I'm a little new to this.
+Hope you enjoy
 
 ======================================================================
 
