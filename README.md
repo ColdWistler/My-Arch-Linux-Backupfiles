@@ -80,7 +80,7 @@ Use rofi theme selector to switch themes
 These are applications I prefer so it's optional to install them.
 
 ```bash
-$ paru -S vlc librewolf-bin discord chromium tor-browser.
+$ paru -S vlc librewolf-bin discord chromium tor-browser
 ```
 #Oh My Zsh with Power level 10K
 
