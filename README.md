@@ -11,7 +11,7 @@ $ sudo pacman -Syyu
 #Installing paru (AUR Helper):
 -----------------
 ```bash
-$ sudo pacman -S --needed base-devel
+$ sudo pacman -S --needed base-devel git 
 ```
 CLoning the Repository:
 -----------------------
