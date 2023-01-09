@@ -1,4 +1,4 @@
-# My-Arch-Linux-Backupfiles
+# My-Linux-Configuration-files
 It's just my back up files for the theming as I keep breaking my install lol.
 If anyone wants to use it they're free to use it.
 
