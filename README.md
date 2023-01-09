@@ -7,5 +7,9 @@ $paru -S gnome openbox obmenu-generator obconf nitrogen vscodium-bin kitty polyb
 ```
 
 Some of the works aren't done by me and are a part of other projects.
+
+
+
+
 Credits:
 1. Adi1090x
