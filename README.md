@@ -29,8 +29,9 @@ $ makepkg -si
 #Installing the required applications:
 --------------------------------------
 ```bash
-$ paru -S gnome openbox obmenu-generator obconf nitrogen vscodium-bin kitty polybar conky concky-manager2-git termite gnome-tweaks xfce4 lxappearence pyton-pywal
+$ paru -S gnome openbox obmenu-generator obconf nitrogen vscodium-bin kitty polybar conky concky-manager2-git termite gnome-tweaks xfce4 lxappearence pyton-pywal rofi betterlockscreen 
 ```
+Note: Since I used anarchy installer I already have KDE installed so install plasma if not installed.
 
 #Clone the Repository:
 ---------------------
@@ -91,4 +92,4 @@ Some of the works aren't done by me and are a part of other projects.
 
 
 Credits:
-1. Adi1090x
+1. Adi1090x (Polybar and Rofi)
