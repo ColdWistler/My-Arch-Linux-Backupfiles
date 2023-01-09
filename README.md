@@ -64,6 +64,17 @@ $ cd polybar-themes
 $ chmod +x setup.sh
 $ ./setup.sh
 ```
+# Setting up Rofi:
+
+```bash
+$ git clone --depth=1 https://github.com/adi1090x/rofi.git
+$ cd rofi
+$ chmod +x setup.sh
+$ ./setup.sh
+```
+Use rofi theme selector to switch themes
+
+[Windows key + Space (Openbox)]
 
 # Optional Applications:
 These are applications I prefer so it's optional to install them.
