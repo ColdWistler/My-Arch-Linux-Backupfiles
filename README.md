@@ -123,6 +123,7 @@ Change wallpaper and generate color schemes according to the bar: Windows key + 
 ======================================================================
 
 Some of the works aren't done by me and are a part of other projects.
+Thank you and please let me know if there is any issue with me using these works.
 
 ======================================================================
 
