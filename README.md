@@ -120,8 +120,7 @@ Change wallpaper and generate color schemes according to the bar: Windows key + 
 #KDE Plasma:
 ------------
 
-![pic9](https://user-images.githubusercontent.com/53271289/211326683-cbb6d431-fe76-4e45-a3c6-11e769e49cd0.png) ![pic6](https://user-images.githubusercontent.com/53271289/211326724-ac529eca-91ae-43f4-a8ba-0576fad98cda.png)
-
+![pic9](https://user-images.githubusercontent.com/53271289/211326683-cbb6d431-fe76-4e45-a3c6-11e769e49cd0.png) 
 
 
 
