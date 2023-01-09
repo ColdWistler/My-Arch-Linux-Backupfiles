@@ -127,12 +127,12 @@ Change Polybar: ctrl + Alt + (1-0 & O & k)
 Change wallpaper and generate color schemes according to the bar: Windows key + (1-0,O & k)
 
 # Some other themes:
-![ob1](https://user-images.githubusercontent.com/53271289/211343893-c86fbac6-d6ce-42b5-8ac6-3b92ed62a1e7.png)
-![ob2](https://user-images.githubusercontent.com/53271289/211343900-3c28f926-8907-451e-96d5-da3b58c4b7d2.png)
-![ob3](https://user-images.githubusercontent.com/53271289/211343916-a4ed8b13-da06-4d25-851b-b27a3b462609.png)
-![ob4](https://user-images.githubusercontent.com/53271289/211343929-c19ccad8-e53f-468f-b2c9-319173a50503.png)
-![ob5](https://user-images.githubusercontent.com/53271289/211343936-1fdbfcfa-cf95-4b10-a23b-c56afcf11f06.png)
-![ob6](https://user-images.githubusercontent.com/53271289/211343951-3b229637-ed8e-4d28-a712-36aee654f2d3.png)
+
+|Openbox|Themes|
+|--|--|
+|![ob1](https://user-images.githubusercontent.com/53271289/211343893-c86fbac6-d6ce-42b5-8ac6-3b92ed62a1e7.png)|![ob2](https://user-images.githubusercontent.com/53271289/211343900-3c28f926-8907-451e-96d5-da3b58c4b7d2.png)|
+|![ob3](https://user-images.githubusercontent.com/53271289/211343916-a4ed8b13-da06-4d25-851b-b27a3b462609.png)|![ob4](https://user-images.githubusercontent.com/53271289/211343929-c19ccad8-e53f-468f-b2c9-319173a50503.png)
+|![ob5](https://user-images.githubusercontent.com/53271289/211343936-1fdbfcfa-cf95-4b10-a23b-c56afcf11f06.png)|![ob6](https://user-images.githubusercontent.com/53271289/211343951-3b229637-ed8e-4d28-a712-36aee654f2d3.png)
 
 
 # Desktop Environments:
