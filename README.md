@@ -40,12 +40,12 @@ Note: Since I used anarchy installer I already have KDE installed so install pla
 $ git clone https://github.com/ColdWistler/My-Arch-Linux-Backupfiles.git 
 ```
 #Finally copying the configurations:
-
+```bash
 $ cd My-Arch-Linux-Backupfiles  
 $ mv -f * ~/.config 
 $ cd ~/My-Arch-Linux-Backupfiles
 $ mv Wallpapers ~/Pictures
-
+```
 
 # Openbox configuration:
 
