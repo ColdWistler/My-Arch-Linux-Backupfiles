@@ -1,6 +1,7 @@
 # My-Linux-Configuration-files
 It's just my back up files for the theming as I keep breaking my install lol.
 If anyone wants to use it they're free to use it.
+This is a work in progress and the development will be dry for atleast 3 months.
 
 # Start by updating the system:
 ```bash
@@ -89,7 +90,6 @@ $ git clone https://github.com/ColdWistler/My-Arch-Linux-Backupfiles.git
 Some of the works aren't done by me and are a part of other projects.
 
 ======================================================================
-
 
 Credits:
 1. Adi1090x (Polybar and Rofi)
