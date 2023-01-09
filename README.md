@@ -78,6 +78,10 @@ $ git clone https://github.com/ColdWistler/My-Arch-Linux-Backupfiles.git
 
 ![pic8](https://user-images.githubusercontent.com/53271289/211318683-51392c21-1a0b-4144-9b5c-aa817a41de30.png)
 
+#Gnome:
+-------
+![gnome](https://user-images.githubusercontent.com/53271289/211318851-4a0acfaf-6394-41e4-9272-ac69e3ca124b.png)
+
 
 ======================================================================
 
