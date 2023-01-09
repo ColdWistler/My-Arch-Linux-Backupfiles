@@ -137,6 +137,9 @@ Change wallpaper and generate color schemes according to the bar: Windows key + 
 
 # Desktop Environments:
 =======================
+
+
+
 #KDE Plasma:
 ------------
 
