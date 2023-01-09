@@ -29,16 +29,24 @@ $ makepkg -si
 #Installing the required applications:
 --------------------------------------
 ```bash
-$ paru -S gnome openbox obmenu-generator obconf nitrogen vscodium-bin kitty polybar conky concky-manager2-git termite gnome-tweaks xfce4 lxappearence
+$ paru -S gnome openbox obmenu-generator obconf nitrogen vscodium-bin kitty polybar conky concky-manager2-git termite gnome-tweaks xfce4 lxappearence pyton-pywal
 ```
 
+#Clone the Repository:
+---------------------
+
+$ git clone https://github.com/ColdWistler/My-Arch-Linux-Backupfiles.git 
 
 
 
+
+
+
+======================================================================
 
 Some of the works aren't done by me and are a part of other projects.
 
-===================================================================================================================
+======================================================================
 
 
 Credits:
