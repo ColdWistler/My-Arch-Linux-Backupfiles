@@ -73,7 +73,10 @@ $ git clone https://github.com/ColdWistler/My-Arch-Linux-Backupfiles.git
 #KDE Plasma:
 ------------
 
-![pic7](https://user-images.githubusercontent.com/53271289/211318595-4ca07f02-879b-4d1e-8405-d6bcbf21bb6d.png)
+![pic9](https://user-images.githubusercontent.com/53271289/211326683-cbb6d431-fe76-4e45-a3c6-11e769e49cd0.png) ![pic6](https://user-images.githubusercontent.com/53271289/211326724-ac529eca-91ae-43f4-a8ba-0576fad98cda.png)
+
+
+
 
 #xfce4 (Nostalgia):
 -------------------
