@@ -41,7 +41,8 @@ $ git clone https://github.com/ColdWistler/My-Arch-Linux-Backupfiles.git
 ```
 #Finally copying the configurations:
 
-$ 
+$ cd My-Arch-Linux-Backupfiles  
+$ mv -f * ~/.config 
 
 # Openbox configuration:
 
