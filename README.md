@@ -33,7 +33,7 @@ $ makepkg -si
 #Installing the required applications:
 --------------------------------------
 ```bash
-$ paru -S gnome openbox obmenu-generator obconf nitrogen vscodium-bin kitty polybar conky concky-manager2-git termite gnome-tweaks xfce4 lxappearence pyton-pywal rofi betterlockscreen zorin-desktop-themes zorin-icon themes windows-xp-themes-git windows-xp-icons-git pfetch 
+$ paru -S gnome openbox obmenu-generator obconf nitrogen vscodium-bin kitty polybar conky concky-manager2-git termite gnome-tweaks xfce4 lxappearence pyton-pywal rofi betterlockscreen zorin-desktop-themes zorin-icon themes windows-xp-themes-git windows-xp-icons-git pfetch calc networkmanager_dmenu
 ```
 Note: Since I used anarchy installer I already have KDE installed so install plasma if not installed.
 
@@ -41,6 +41,7 @@ Note: Since I used anarchy installer I already have KDE installed so install pla
 ---------------------
 ```bash
 $ git clone https://github.com/ColdWistler/My-Arch-Linux-Backupfiles.git 
+
 ```
 #Finally copying the configurations:
 ```bash
@@ -48,6 +49,20 @@ $ cd My-Arch-Linux-Backupfiles
 $ mv -f * ~/.config 
 $ cd ~/My-Arch-Linux-Backupfiles
 $ mv Wallpapers ~/Pictures
+```
+
+# Setting up polybar:
+
+#Instaling required fonts:
+```bash
+paru -S ttf-iosevka-lyte-nerd-font ttf-icomoon-feather ttf-material-design-icons siji-git
+```
+#Cloning from a repository: Credit:adi1090x
+```bash
+$ git clone --depth=1 https://github.com/adi1090x/polybar-themes.git
+$ cd polybar-themes
+$ chmod +x setup.sh
+$ ./setup.sh
 ```
 
 # Optional Applications:
