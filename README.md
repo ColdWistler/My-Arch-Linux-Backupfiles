@@ -1,4 +1,7 @@
 # My-Linux-Configuration-files
+
+![arch](https://user-images.githubusercontent.com/53271289/211332449-7908045c-9db2-4e27-b0fb-5449d37c93a2.png)
+
 It's just my back up files for the theming as I keep breaking my install lol.
 If anyone wants to use it they're free to use it.
 This is a work in progress and the development will be dry for atleast 3 months.
@@ -30,7 +33,7 @@ $ makepkg -si
 #Installing the required applications:
 --------------------------------------
 ```bash
-$ paru -S gnome openbox obmenu-generator obconf nitrogen vscodium-bin kitty polybar conky concky-manager2-git termite gnome-tweaks xfce4 lxappearence pyton-pywal rofi betterlockscreen zorin-desktop-themes zorin-icon themes windows-xp-themes-git windows-xp-icons-git 
+$ paru -S gnome openbox obmenu-generator obconf nitrogen vscodium-bin kitty polybar conky concky-manager2-git termite gnome-tweaks xfce4 lxappearence pyton-pywal rofi betterlockscreen zorin-desktop-themes zorin-icon themes windows-xp-themes-git windows-xp-icons-git pfetch 
 ```
 Note: Since I used anarchy installer I already have KDE installed so install plasma if not installed.
 
@@ -53,6 +56,15 @@ These are applications I prefer so it's optional to install them.
 ```bash
 $ paru -S vlc librewolf-bin discord 
 ```
+#Oh My Zsh with Power level 10K
+
+![ospwl10k](https://user-images.githubusercontent.com/53271289/211332329-c228eff4-0f7e-48d5-8ba3-8b1fd3505d31.png)
+
+```bash
+$ paru -S zsh oh-my-zsh-git zsh-theme-powerlevel10k-git
+```
+
+
 
 # Openbox configuration:
 
@@ -80,6 +92,13 @@ $ paru -S vlc librewolf-bin discord
 -------
 
 ![pic5](https://user-images.githubusercontent.com/53271289/211318439-18845fb9-f0de-4033-adf6-ed6ce2e0e79f.png)
+
+# Some Important Shortcut keys:
+-------------------------------------
+Change Polybar: ctrl + Alt + (1-0 & O & k)
+
+
+Change wallpaper and generate color schemes according to the bar: Windows key + (1-0,O & k)
 
 # Desktop Environments:
 =======================
