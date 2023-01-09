@@ -43,6 +43,9 @@ $ git clone https://github.com/ColdWistler/My-Arch-Linux-Backupfiles.git
 
 $ cd My-Arch-Linux-Backupfiles  
 $ mv -f * ~/.config 
+$ cd ~/My-Arch-Linux-Backupfiles
+$ mv Wallpapers ~/Pictures
+
 
 # Openbox configuration:
 
