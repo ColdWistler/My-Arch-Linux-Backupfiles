@@ -30,7 +30,7 @@ $ makepkg -si
 #Installing the required applications:
 --------------------------------------
 ```bash
-$ paru -S gnome openbox obmenu-generator obconf nitrogen vscodium-bin kitty polybar conky concky-manager2-git termite gnome-tweaks xfce4 lxappearence pyton-pywal rofi betterlockscreen 
+$ paru -S gnome openbox obmenu-generator obconf nitrogen vscodium-bin kitty polybar conky concky-manager2-git termite gnome-tweaks xfce4 lxappearence pyton-pywal rofi betterlockscreen zorin-desktop-themes zorin-icon themes windows-xp-themes-git windows-xp-icons-git 
 ```
 Note: Since I used anarchy installer I already have KDE installed so install plasma if not installed.
 
@@ -45,6 +45,13 @@ $ cd My-Arch-Linux-Backupfiles
 $ mv -f * ~/.config 
 $ cd ~/My-Arch-Linux-Backupfiles
 $ mv Wallpapers ~/Pictures
+```
+
+# Optional Applications:
+These are applications I prefer so it's optional to install them.
+
+```bash
+$ paru -S vlc librewolf-bin discord 
 ```
 
 # Openbox configuration:
