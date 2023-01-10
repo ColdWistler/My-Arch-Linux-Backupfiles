@@ -45,7 +45,8 @@ $ git clone https://github.com/ColdWistler/My-Arch-Linux-Backupfiles.git
 ```
 #Finally copying the configurations:
 ```bash
-$ cd My-Arch-Linux-Backupfiles  
+$ cd My-Arch-Linux-Backupfiles 
+$ cd config
 $ mv -f * ~/.config 
 $ cd ~/My-Arch-Linux-Backupfiles
 $ mv Wallpapers ~/Pictures
