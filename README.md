@@ -1,3 +1,5 @@
+# Note:
+# Barely working right now lol I'll fix it soon enough.
 # My-Linux-Configuration-files
 
 ![arch](https://user-images.githubusercontent.com/53271289/211332449-7908045c-9db2-4e27-b0fb-5449d37c93a2.png)
