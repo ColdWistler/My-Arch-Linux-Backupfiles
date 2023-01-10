@@ -119,6 +119,13 @@ $ paru -S zsh oh-my-zsh-git zsh-theme-powerlevel10k-git
 
 ![pic5](https://user-images.githubusercontent.com/53271289/211318439-18845fb9-f0de-4033-adf6-ed6ce2e0e79f.png)
 
+#Themes for Openbox: Credits:(addy-dclxvi)
+
+```bash
+$ git clone https://github.com/addy-dclxvi/openbox-theme-collections ~/.themes
+```
+
+
 # Some Important Shortcut keys:
 -------------------------------------
 Change Polybar: ctrl + Alt + (1-0 & O & k)
