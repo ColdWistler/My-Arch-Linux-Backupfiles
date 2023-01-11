@@ -1,5 +1,5 @@
 # Note:
-# Barely working right now lol I'll fix it soon enough.
+# Work in progress fixing some Issues.
 # My-Linux-Configuration-files
 
 ![arch](https://user-images.githubusercontent.com/53271289/211332449-7908045c-9db2-4e27-b0fb-5449d37c93a2.png)
@@ -35,10 +35,15 @@ $ makepkg -si
 #Installing the required applications:
 --------------------------------------
 ```bash
-$ paru -S gnome openbox obmenu-generator obconf nitrogen vscodium-bin kitty polybar conky conky-manager2-git termite gnome-tweaks xfce4 lxappearance python-pywal rofi betterlockscreen zorin-desktop-themes zorin-icon-themes windows-xp-themes-git windows-xp-icons-git pfetch calc networkmanager-dmenu-git kvantum
+$ paru -S gnome openbox obmenu-generator obconf nitrogen vscodium-bin kitty polybar conky conky-manager2-git termite gnome-tweaks xfce4 lxappearance python-pywal rofi betterlockscreen zorin-desktop-themes zorin-icon-themes windows-xp-themes-git windows-xp-icons-git pfetch calc networkmanager-dmenu-git kvantum picom 
 ```
 Note: Since I used anarchy installer I already have KDE installed so install plasma if not installed.
 
+#For people who only want openbox:
+
+```bash
+$ paru -S openbox obmenu-generator obconf nitrogen polybar conky conky-manager2-git termite lxappearance python-pywal rofi betterlockscreen zorin-desktop-themes zorin-icon-themes calc networkmanager-dmenu-git picom 
+```
 #Clone the Repository:
 ---------------------
 ```bash
@@ -76,6 +81,7 @@ $ chmod +x setup.sh
 $ ./setup.sh
 ```
 Use rofi theme selector to switch themes
+Note:Copy the files to the theme switcher folder  [/usr/share/rofi/themes/]
 
 [Windows key + Space (Openbox)]
 
@@ -83,7 +89,7 @@ Use rofi theme selector to switch themes
 These are applications I prefer so it's optional to install them.
 
 ```bash
-$ paru -S vlc librewolf-bin discord chromium tor-browser
+$ paru -S vlc librewolf-bin discord chromium tor-browser 
 ```
 #Oh My Zsh with Power level 10K
 
