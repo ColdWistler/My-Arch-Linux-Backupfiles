@@ -29,7 +29,7 @@ $ cd paru
 ```bash
 $ makepkg -si
 ```
-----
+-----
 
 
 #Installing the required applications:
