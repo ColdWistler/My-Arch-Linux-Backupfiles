@@ -33,7 +33,7 @@ $ makepkg -si
 
 
 #Installing the required applications:
---------------------------------------
+---------------------------------------
 ```bash
 $ paru -S gnome openbox obmenu-generator obconf nitrogen vscodium-bin kitty polybar conky conky-manager2-git termite gnome-tweaks xfce4 lxappearance python-pywal rofi betterlockscreen zorin-desktop-themes zorin-icon-themes windows-xp-themes-git windows-xp-icons-git pfetch calc networkmanager-dmenu-git kvantum picom 
 ```
