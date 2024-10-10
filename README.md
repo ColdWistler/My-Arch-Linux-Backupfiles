@@ -14,7 +14,7 @@ $ sudo pacman -Syyu
 ```
 
 #Installing paru (AUR Helper):
-------------------
+-------------------
 ```bash
 $ sudo pacman -S --needed base-devel git 
 ```
