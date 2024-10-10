@@ -185,7 +185,7 @@ I'm Sorry if I cause any trouble I'm a little new to this.
 
 Hope you enjoy.!!!
 
-======================================================================
+=======================================================================
 
 Credits:
 1. Adi1090x (Polybar and Rofi)
