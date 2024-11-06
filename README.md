@@ -19,7 +19,7 @@ $ sudo pacman -Syyu
 $ sudo pacman -S --needed base-devel git 
 ```
 CLoning the Repository:
-------------------------------
+-------------------------------
 ```bash
 $ git clone https://aur.archlinux.org/paru.git
 ```
